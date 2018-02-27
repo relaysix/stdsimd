@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["arch","SIMD and vendor intrinsics module."],["simd","Platform independent SIMD vector types and operations."]]});
